@@ -8,7 +8,7 @@
         "search",
         "bot"
     ],
-    "repository": "https://github.com/RoyalKrrishna/MessageSearchBot",
+    "repository": "https://github.com/Zomato1/Mdisk-Search-Bot-",
     "website": "https://telegram.dog/RoyalKrrishna",
     "success_url": "https://t.me/mdisksearchroBot",
     "env": {
