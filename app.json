@@ -1,6 +1,6 @@
 {
-    "name": "This is Inline Search Bot by @RoyalKrrishna",
-    "description": "This is Inline Channel Messages Search Bot by @RoyalKrrishna",
+    "name": "This is Inline Search Bot by @KGN_OFFICIAL",
+    "description": "This is Inline Channel Messages Search Bot by @KGN_OFFICIAL",
     "keywords": [
         "telegram",
         "channel",
@@ -8,18 +8,18 @@
         "search",
         "bot"
     ],
-    "repository": "https://github.com/Zomato1/Mdisk-Search-Bot-",
-    "website": "https://telegram.dog/RoyalKrrishna",
-    "success_url": "https://t.me/mdisksearchroBot",
+    "repository": "https://github.com/KGN-BOTS/Mdisk-Search-Bot",
+    "website": "https://telegram.dog/KGN_OFFICIAL",
+    "success_url": "http://t.me/Samantha_Ruth_RoBot",
     "env": {
         "API_ID": {
-            "description": "Get this value from my.telegram.org or @TeleORG_Bot"
+            "description": "Get this value from my.telegram.org"
         },
         "API_HASH": {
-            "description": "Get this value from my.telegram.org or @TeleORG_Bot"
+            "description": "Get this value from my.telegram.org"
         },
         "USER_SESSION_STRING": {
-            "description": "Get this from @StringSessionGen_Bot"
+            "description": "Get this from @KGN_STRING_BOT"
         },
         "BOT_SESSION_NAME": {
             "description": "Any Session Name for Bot."
@@ -40,7 +40,7 @@
             "description": "MongoDB Database URI for Saving UserID for Broadcast."
         },
         "UPDATES_CHANNEL": {
-            "description": "ID of a Channel which you want to do Force Sub to use the bot. Example: -100123456789",
+            "description": "ID of a Channel which you want to do Force Sub to use the bot. Example: -1001669443507",
             "required": false
         },
         "CHANNEL_ID": {
