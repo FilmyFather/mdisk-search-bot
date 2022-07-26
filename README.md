@@ -32,7 +32,7 @@ Very Soon We will Update it With New Features.
 [![telegram badge](https://img.shields.io/badge/Telegram-Channel-30302f?style=flat&logo=telegram)](https://telegram.dog/FilmyFather_BotList)
 
 ## Credits 
-[![ʏᴜᴠʀᴀᴊ](https://img.shields.io/static/v1?label=ZAHID&message=dev&color=critical)](https://telegram.dog/Yuvi_4502)
+[![ʏᴜᴠʀᴀᴊ](https://img.shields.io/static/v1?label=ʏᴜᴠʀᴀᴊ&message=dev&color=critical)](https://telegram.dog/Yuvi_4502)
 
 <p align="center">
     <a href="https://t.me/RequestingHuB">
