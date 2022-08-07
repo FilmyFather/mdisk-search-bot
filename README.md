@@ -1,7 +1,5 @@
 # Mdisk Search Bot
 
-<p align="center"><img src="https://telegra.ph/file/fe54eb9ef89ed14afd2bc.jpg" width="1200"></a></p>
-
 [![Open Source Love svg2](https://badges.frapsoft.com/os/v2/open-source.svg?v=103)](https://github.com/FilmyFather/mdisk-search-bot)   
 
 
@@ -21,7 +19,7 @@ Very Soon We will Update it With New Features.
 <details><summary><b>Deploy to Heroku</b></summary>
 <p>
 <br>
-<a href="https://heroku.com/deploy?template=https://github.com/KGN-BOTS/mdisk-search-bot">
+<a href="https://heroku.com/deploy?template=https://github.com/FilmyFather/mdisk-search-bot">
   <img src="https://www.herokucdn.com/deploy/button.svg" alt="Deploy">
 </a>
 </p>
